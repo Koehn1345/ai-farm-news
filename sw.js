@@ -1,4 +1,4 @@
-const CACHE = 'agriai-v1';
+const CACHE = 'agriai-v2';
 const SHELL = [
   './',
   './index.html',
